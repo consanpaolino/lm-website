@@ -1,4 +1,4 @@
-name: Validate & Publish
+name: Validate
 
 on:
   push:
@@ -11,8 +11,6 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
   group: pages-${{ github.head_ref || github.ref_name }}
@@ -35,4 +33,3 @@ jobs:
 
       - name: Validate HTML output
         run: bundle exec htmlproofer ./_site --ignore-missing-alt --disable-external --enforce-https false --allow-missing-href true
-
