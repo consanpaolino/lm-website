@@ -1,6 +1,13 @@
 source 'https://rubygems.org'
-gem "github-pages", group: :jekyll_plugins
+
+gem "jekyll"
 gem "jekyll-theme-cayman"
+
+group :jekyll_plugins do
+  gem "jekyll-feed"
+  gem 'jekyll-seo-tag'
+  gem 'jekyll-sitemap'
+end
 
 # Validate HTML
 gem "html-proofer", '~>4.2.0'
