@@ -26,5 +26,6 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
