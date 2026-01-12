@@ -4,13 +4,14 @@ layout: default
 
 # Partecipa-a-Lucca-Medievale-come-Artista-/-Rievocatore-/-Didattica
 
-## Partecipa a Lucca Medievale come Artista / Rievocatore / Didattica
+## Partecipa a Lucca Medievale come Artista / Rievocatore / Attività Didattica
 
 Per la parte artistica, di spettacolo e di intrattenimento, hanno titolo preferenziale artisti e associazioni in queste categorie:
 
 * Falconieri, Mangiafuoco, Trampolieri, Giocolieri
 * Artisti di strada a tema medievale (NO spettacoli di luci e/o musica moderna)
 * Rievocatori medievali, arcieria, scherma storica
+* Attività didattica medievale
 
 ## Informazioni generali
 

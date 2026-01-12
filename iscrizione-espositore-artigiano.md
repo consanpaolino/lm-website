@@ -24,7 +24,7 @@ Ricerchiamo espositori e artigiani che creano opere del proprio ingegno e che vo
 ## Informazioni generali
 
 * Offriamo piazzole di 3x3 metri e 6x3 metri con servizio di vigilanza notturno per il sabato.
-* L’area è coperta da illuminazione pubblica ma è consigliata illuminazione autonoma per le ore serali.
+* L’area è coperta dalla illuminazione pubblica ma è consigliata illuminazione autonoma per le ore serali.
 * Non possiamo fornire punti di allacciamento alla rete elettrica, per cui se necessario dovrete organizzarvi in maniera indipendente.
 * Non possiamo fornire banchi, sedie, suppellettili, attrezzi
 
@@ -34,11 +34,6 @@ Ricerchiamo espositori e artigiani che creano opere del proprio ingegno e che vo
 
 Dopo l'invio del modulo riceverete un'email all'indirizzo che avete inserito nel modulo, contenente una copia delle vostre risposte e che vi permetterà di modificare le risposte inviate (e/o di annullare l'iscrizione in seguito).
 
-Successivamente:
-
-* si farà verifica della conformità ai requisiti sopra citati
-* e saranno valutate la bontà e qualità dei vostri prodotti
-
-Se saremo interessati sarete ricontattati in seguito per l'accesso a Lucca Medievale: a conferma dell'iscrizione, per entrambe le giornate, è prevista una piccola quota d'iscrizione stabilita all'inizio di ogni anno, il cui importo dipende dalla piazzola necessaria.
+Saranno verificati in seguito la bontà e qualità dei vostri prodotti artigianali, assieme alla conformità ai requisiti sopra citati e se saremo interessati sarete ricontattati per l'accesso a Lucca Medievale: a conferma dell'iscrizione, per entrambe le giornate, è prevista una piccola quota d'iscrizione stabilita all'inizio di ogni anno, il cui importo dipende dalla dimensione della piazzola richiesta.
 
 [Torna indietro alla Home Page](20260.md)
