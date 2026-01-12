@@ -27,4 +27,4 @@ Dopo che avrete inviato la vostra iscrizione riceverete un'email all'indirizzo c
 Successivamente saranno valutate la bontà e la qualità delle vostre performances e/o attività didattiche.
 Se saremo interessati sarete ricontattati in seguito per l'accesso a Lucca Medievale.
 
-[Torna indietro alla Home Page](2025.md)
+[Torna indietro alla Home Page](20260.md)

@@ -41,4 +41,4 @@ Successivamente:
 
 Se saremo interessati sarete ricontattati in seguito per l'accesso a Lucca Medievale: a conferma dell'iscrizione, per entrambe le giornate, è prevista una piccola quota d'iscrizione stabilita all'inizio di ogni anno, il cui importo dipende dalla piazzola necessaria.
 
-[Torna indietro alla Home Page](2025.md)
+[Torna indietro alla Home Page](20260.md)
