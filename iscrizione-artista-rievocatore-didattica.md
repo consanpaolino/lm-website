@@ -21,7 +21,7 @@ Per la parte artistica, di spettacolo e di intrattenimento, hanno titolo prefere
 
 ## **Richiesta di partecipazione**
 
-[✍️ Compila il modulo di richiesta partecipazione come Artista/Rievocatore/Didattica](https://tiny.cc/lm26-art-rie-did)
+[✍️ Compila il modulo di richiesta partecipazione come Artista/Rievocatore/Attività Didattica](https://tiny.cc/lm26-art-rie-did)
 
 Inviando il presente modulo riceverete un'email all'indirizzo che avete inserito all'inizio dello stesso, contenente una copia delle vostre risposte. All'interno di questa email è presente un link che vi permetterà di modificare le risposte già inviate o di annullare la richiesta a partecipare a LM26.
 
