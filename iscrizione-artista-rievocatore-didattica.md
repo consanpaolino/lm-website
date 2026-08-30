@@ -1,5 +1,6 @@
 ---
 layout: default
+published: false
 ---
 
 # Partecipa-a-Lucca-Medievale-come-Artista-/-Rievocatore-/-Didattica

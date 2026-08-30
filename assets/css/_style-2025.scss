@@ -89,8 +89,8 @@ li {
 }
 
 .page-header {
-    background-color: #fefadc;
-    background-image: url("/assets/images/2026/lm26-banner-landscape.webp");
+    background-color: #fcf8e6;
+    background-image: url(/assets/images/lm-noyear-banner-landscape.webp);
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
@@ -99,13 +99,13 @@ li {
 
 @media screen and (max-width: 96em) {
     .page-header {
-      background-image: url("/assets/images/2026/lm26-quattro-quinti-portrait.webp");
+      background-image: url("/assets/images/lm-noyear-banner-portrait.webp");
       min-height: 38rem;
     }
   }
 
 body {
-    background-color: #fefadc;
+    background-color: #fcf8e6;
     color: #000;
 }
 
@@ -114,15 +114,15 @@ body {
 }
 
 .main-content h2 {
-  color: #bb2f41;
+  color: #c5432f;
 }
 
 .main-content h3 {
-  color: #e76725;
+  color: #e07a39;
 }
 
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-  color: #588e67;
+  color: #638f70;
 }
