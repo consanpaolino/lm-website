@@ -23,7 +23,7 @@ GEM
     google-protobuf (4.32.1-x86_64-linux-gnu)
       bigdecimal
       rake (>= 13)
-    html-proofer (4.2.0)
+    html-proofer (4.4.3)
       addressable (~> 2.3)
       mercenary (~> 0.3)
       nokogiri (~> 1.13)
@@ -112,7 +112,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  html-proofer (~> 4.2.0)
+  html-proofer (~> 4.4.3)
   jekyll
   jekyll-feed
   jekyll-relative-links
