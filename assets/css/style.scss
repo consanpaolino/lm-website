@@ -100,7 +100,9 @@ li {
 @media screen and (max-width: 96em) {
     .page-header {
       background-image: url("/assets/images/2026/lm26-quattro-quinti-portrait-ending.webp");
-      min-height: 38rem;
+      background-position: center;
+      width: 100%;
+      aspect-ratio: 4 / 5; /* Mantiene la proporzione esatta senza crop */
     }
   }
 
